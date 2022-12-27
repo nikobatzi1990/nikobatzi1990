@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikobatzi1990
+- 👋 Hi, I’m Nicole!
 - 👀 I’m interested in becoming a programmer!
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ...
