@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole!
-- 👀 I’m interested in becoming a programmer!
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 👀 I’m interested in becoming a software engineer!
+- 🌱 I’m currently learning JavaScript, PostgreSQL, and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
