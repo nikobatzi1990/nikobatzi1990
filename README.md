@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Nicole!
-- 👀 I’m interested in becoming a software engineer!
-- 🌱 I’m currently learning JavaScript, PostgreSQL, and React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nicole! I'm fairly proficient in JavaScript/Express, SQL, and React.
+- 👀 I’m interested in changing careers from English teach to software engineer.
+- 🌱 I’m currently learning TypeScript and Python/Django. I'm also interesting in React Native and Docker.
 
 <!---
 nikobatzi1990/nikobatzi1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
