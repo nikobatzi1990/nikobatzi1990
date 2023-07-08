@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Nicole! I'm fairly proficient in JavaScript/Express, SQL, and React.
-- 👀 I’m interested in changing careers from English teacher to software engineer.
+- 👋 Hi, I’m Nicole! I'm a fullstack developer proficient in JavaScript, Express, SQL, and React.
 - 🌱 I’m currently learning TypeScript and Python/Django. I'm also interesting in React Native and Docker.
 
 <!---
