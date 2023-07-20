@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nicole! I'm a fullstack developer proficient in JavaScript, Express, SQL, and React.
-- 🌱 I’m currently learning TypeScript and Python/Django. I'm also interesting in React Native and Docker.
+- 👋 Hi, I’m Nicole! I'm a fullstack developer proficient in JavaScript, TypeScript, Express, Python, Django, SQL, and React.
+- 🌱 I'm currently interested in learning React Native, AWS, and Docker.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikobatzi1990&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!---
