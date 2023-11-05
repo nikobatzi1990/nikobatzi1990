@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Nicole! I'm a fullstack developer proficient in JavaScript, TypeScript, Express, Python, Django, SQL, and React.
-- 🌱 I'm currently interested in learning React Native, AWS, and Docker.
+- Languages: JavaScript/TypeScript, Python, SQL
+- Frontend: HTML/CSS, React, Next.js
+- Backend: Node, Express, Django, PostgreSQL
+
+- 🌱 I'm currently interested in learning Tailwind, React Native, AWS, and Docker.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikobatzi1990&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!---
