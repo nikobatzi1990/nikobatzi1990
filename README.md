@@ -1,6 +1,6 @@
 - Languages: JavaScript/TypeScript, Python, SQL
 - Frontend: HTML/CSS, Tailwind, React, Next.js
-- Backend: Node, Express, Django, PostgreSQL
+- Backend: Node, Express, Django REST Framework, PostgreSQL
 
 - 🌱 I'm currently interested in learning React Native, AWS, and Docker.
 
