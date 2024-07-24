@@ -2,6 +2,8 @@
 - Frontend: HTML/CSS, Tailwind, React, Next.js
 - Backend: Node, Express, Django REST Framework, PostgreSQL
 
+- 📚 I'm currently learning: Clojure
+
 - 🌱 I'm currently interested in learning React Native, AWS, and Docker.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikobatzi1990&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
