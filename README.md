@@ -1,6 +1,13 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,postgres,react,vite,bootstrap,tailwind,sass,nextjs,jest,htmx" />
+  </a>
+</p>
+
 - Languages: JavaScript/TypeScript, Python, SQL
-- Frontend: HTML/CSS, Tailwind, React, React Native, Next.js, Vite
+- Frontend: HTML/CSS, Tailwind, Bootstrap, Sass, React, React Native, Next.js, Vite
 - Backend: Node, Express, Django REST Framework, PostgreSQL
+- Testing: Jest, Jasmine, Mocha, Chai
 
 - 📚 I'm currently learning: Clojure
 
